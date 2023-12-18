@@ -29,20 +29,20 @@ This Jupyter Notebook analyzes Yelp reviews using Python libraries like Pandas, 
 
 ## Usage
 **1. Understanding the Dataset**
-Exploratory Data Analysis (EDA): This notebook serves as a guide for users to comprehend the structure, attributes, and content of the Yelp dataset. It helps users gain insights into the nature of reviews, their lengths, and distributions across different star ratings.
+- Exploratory Data Analysis (EDA): This notebook serves as a guide for users to comprehend the structure, attributes, and content of the Yelp dataset. It helps users gain insights into the nature of reviews, their lengths, and distributions across different star ratings.
 
 **2. Text Preprocessing Techniques**
-Data Preparation: The notebook demonstrates preprocessing steps essential for handling text data. Users can learn how to clean text by removing punctuation and stopwords, crucial for further analysis or modeling.
+- Data Preparation: The notebook demonstrates preprocessing steps essential for handling text data. Users can learn how to clean text by removing punctuation and stopwords, crucial for further analysis or modeling.
 
 **3. Building a Sentiment Analysis Model**
-Machine Learning Implementation: The primary focus is on showcasing the process of building a sentiment analysis model using a Multinomial Naive Bayes classifier. Users can follow step-by-step instructions on preparing the data, training the model, and evaluating its performance.
+- Machine Learning Implementation: The primary focus is on showcasing the process of building a sentiment analysis model using a Multinomial Naive Bayes classifier. Users can follow step-by-step instructions on preparing the data, training the model, and evaluating its performance.
 
 **4. Model Evaluation and Enhancement**
 - Performance Assessment: Users can understand how to evaluate the effectiveness of the model using metrics like precision, recall, and accuracy. This evaluation aids in understanding the model's predictive capabilities and limitations.
 - Feature Enhancement: Additionally, the notebook introduces TF-IDF (Term Frequency-Inverse Document Frequency) as an alternative feature representation method to potentially improve model performance.
 
 **5. Learning from Examples**
-Demonstration and Replication: Through the provided examples and code snippets, users can replicate the analysis, modify parameters, or extend the methodology to suit different datasets or analysis goals.
+- Demonstration and Replication: Through the provided examples and code snippets, users can replicate the analysis, modify parameters, or extend the methodology to suit different datasets or analysis goals.
 
 **6. Educational Resource**
 - Learning Tool: This notebook serves as an educational resource for individuals interested in:
