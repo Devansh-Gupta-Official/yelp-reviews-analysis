@@ -49,3 +49,15 @@ This Jupyter Notebook analyzes Yelp reviews using Python libraries like Pandas, 
 - Text data preprocessing techniques.
 - Implementing machine learning models for sentiment analysis.
 - Evaluating model performance and understanding confusion matrices and classification reports.
+
+## Instructions
+### Setting Up the Environment
+Library Installation: Ensure the required Python libraries (Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn) are installed in the environment where the notebook will be executed.
+Jupyter Notebook Environment: Open the notebook in a Jupyter environment compatible with Python.
+### Dataset Acquisition
+Data Source: Download the Yelp dataset ('yelp.csv') or access it from the specified location. If the dataset is stored elsewhere, update the file path accordingly while loading the data into the notebook.
+### Running the Notebook
+Sequential Execution: Run the notebook cells in sequence to replicate the analysis step-by-step.
+Observation of Results: Observe the output, visualizations, and model performance metrics displayed at each stage to understand the effects of various techniques applied.
+### Experimentation and Adaptation
+Modifications and Extensions: Users are encouraged to modify parameters, experiment with different algorithms, or adapt the techniques demonstrated in this notebook to their specific requirements or alternative datasets.
