@@ -1,5 +1,11 @@
 # Yelp Reviews Analysis
 
+## Problem Statement
+- In this project, Natural Language Processing (NLP) strategies will be used to analyze Yelp reviews data
+- Number of 'stars' indicate the business rating given by a customer, ranging from 1 to 5
+- 'Cool', 'Useful' and 'Funny' indicate the number of cool votes given by other Yelp Users. 
+
+
 ## Overview
 This Jupyter Notebook analyzes Yelp reviews using Python libraries like Pandas, Matplotlib, Seaborn, NLTK, and Scikit-learn. The analysis includes data visualization, text preprocessing (removing punctuation, stopwords), and implementing a Naive Bayes classifier.
 
